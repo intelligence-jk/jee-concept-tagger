@@ -1,0 +1,8 @@
+The discriminant of a quadratic equation is zero. Find the nature of its roots.
+The nth term of an arithmetic progression has common difference 4. Find the sum of its first 10 terms.
+Find the modulus and the conjugate of a complex number with imaginary part 3.
+In how many ways can 5 people be seated in arrangements of a row?
+Two dice are thrown. Find the probability that the sum is 7.
+Find the area under the curve y = x^2 from 0 to 3 using an integral.
+Find the derivative and the maximum of the function.
+Find the coefficient of x^3 in the binomial expansion of (1 + x)^6.
