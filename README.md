@@ -1,4 +1,6 @@
-# jee-concept-tagger
+# SUTRA: Smart Universal Tagging of Revision Attempts
+
+Formerly `jee-concept-tagger`.
 
 Tags your own maths questions with concept tags, using keyword rules you can read and change.
 
